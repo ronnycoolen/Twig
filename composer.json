@@ -1,5 +1,5 @@
 {
-    "name": "kingfoo/twig",
+    "name": "twig/twig",
     "type": "library",
     "description": "Twig, the flexible, fast, and secure template language for PHP",
     "keywords": ["templating"],
