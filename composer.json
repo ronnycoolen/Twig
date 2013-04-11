@@ -1,20 +1,10 @@
 {
-    "name": "twig/twig",
+    "name": "kingfoo/twig",
     "type": "library",
     "description": "Twig, the flexible, fast, and secure template language for PHP",
     "keywords": ["templating"],
     "homepage": "http://twig.sensiolabs.org",
     "license": "BSD-3",
-    "authors": [
-        {
-            "name": "Fabien Potencier",
-            "email": "fabien@symfony.com"
-        },
-        {
-            "name": "Armin Ronacher",
-            "email": "armin.ronacher@active-4.com"
-        }
-    ],
     "require": {
         "php": ">=5.2.4"
     },
